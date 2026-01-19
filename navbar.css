@@ -1,0 +1,56 @@
+body{
+    margin: 0%;
+}
+
+/*Utiltity class*/
+.button{
+    border: solid 1px rgb(157, 15, 154);
+    border-radius: 100px;
+    background-color: rgb(63, 14, 78);
+}
+.button a{
+    padding: 8px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+/*Utiltity class*/
+#navbar{
+    
+    display: flex;
+    margin: 0;
+    background-color: rgb(0, 0, 0);
+}
+#navbarlogo{
+    margin-top: 05px;
+    margin-left: 20px;
+    height: 80px;
+    width: 160px;
+}
+#navbarul{
+    margin-right: 30px;
+    margin-left: 230px;
+    display: flex;
+}
+#navbarul li{
+    font-weight: 700;
+    font-family: sans-serif;
+    font-size: larger;
+    list-style: none;
+    margin: 22px;
+}
+#navbar ul a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+#navbar ul a:hover{
+    color: rgb(225, 17, 215);
+}
+#navbarbtn{
+    margin-top: 30px;
+    height: 40px;
+    width: 130px;
+}
+
