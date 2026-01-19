@@ -1,0 +1,20 @@
+#container2{
+    height: 150px;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0%;
+    background-color: rgb(25, 24, 24);
+}
+#container2 p{
+    font-family: sans-serif;
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+    margin: 40px, 10px, 30px, 20px;
+}
+.container2imgs{
+    margin: 6px;
+    height: 90px;
+    width: 200px;
+}
