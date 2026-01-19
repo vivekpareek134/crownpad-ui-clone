@@ -1,0 +1,36 @@
+#container1{
+    display: flex;
+    margin: 0%;
+    background-color: rgb(0, 0, 0);
+}
+#subcont1{
+    margin-top: 0%;    
+    margin-left: 100px;
+    height: 450px;
+    width: 500px;
+}
+#subcont1 p{
+    font-size: 20px;
+    margin-top: 0px;
+    font-weight: 550;
+ font-family: sans-serif;
+ color: rgb(255, 255, 255);
+}
+#subcont1 h1{
+    margin-bottom: 0px;
+    font-size: 85px;
+    font-family: sans-serif;
+ color: rgb(255, 255, 255);
+    
+}
+#subcont2 video{
+    margin-left: 180px;
+    height: 400px;
+    width: 400px;
+}
+#subcont2btn{
+    font-size: medium;
+    font-weight: 400;
+    height: 50px;
+    width: 190px;
+}
